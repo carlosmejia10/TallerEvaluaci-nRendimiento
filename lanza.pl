@@ -12,7 +12,7 @@ $Path = `pwd`;
 chomp($Path);
 
 @Nombre_Ejecutable = ("MM_ejecutable","MM_transpuesta");
-@Size_Matriz = ("3000","4000");
+@Size_Matriz = ("200","300","400","500","600","1000","2000","3000","4000");
 @Num_Hilos = (1,2,3,4,5,6,7,8,9,10,11);
 $Repeticiones = 30;
 
